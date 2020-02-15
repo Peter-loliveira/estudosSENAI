@@ -1,0 +1,64 @@
+body {
+    background-color: aqua;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#texto, #email{
+    width: 100px;
+}
+
+#caixaDeTexto {
+    vertical-align: top;
+    /* padding: 50px; */
+    background-color: deepskyblue;
+}
+
+#email {
+    vertical-align: bottom;
+}
+
+.label {
+    width: 100px;
+    color: mediumorchid;
+    /* border: black 1px solid; */
+}
+
+button {
+    text-align: center;
+    margin: 10px 0px 0px 180px;    
+    border: 0px;
+    background-color: dodgerblue;
+    padding: 5px;
+}   
+button:hover{
+background-color: lawngreen;
+transition: .5s;
+
+}
+
+form {
+    border: 1px solid;
+    background-color: beige;
+    box-shadow: rgb(117, 112, 112) 14px 11px 14px 0px;
+    width: 250px;
+    padding: 10px;
+}
+
+h3{
+    
+}
+
+form h3{
+    text-align: center;
+    color: burlywood;
+
+}
+
+body{
+/* text-align: center; */
+
+}
